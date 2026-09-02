@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-09-02, 09:21 p.m.
+# Submitted   2026-09-02, 09:24 p.m.
 # ──────────────────────────────────────────────────
 
 if __name__ == '__main__':
@@ -30,7 +30,3 @@ if __name__ == '__main__':
                 list1.pop()
             elif name == "reverse":
                 list1.reverse()
-        #     else:
-        #         print(f"Error: Command not available! Here is the current list: {list1}")
-        # else:
-        #     print(f"Error: Constraints mismatch! Here is the current list: {list1}")
